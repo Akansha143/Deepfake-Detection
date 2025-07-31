@@ -54,5 +54,5 @@ streamlit run app.py
 ```
 3.Follow the instructions on the Streamlit interface to upload videos and view detection results.
 
-##Acknowledgments
+## Acknowledgments
 This project was inspired by the growing need for robust methods to combat deepfakes. The dataset used, 140k Real and Fake Faces, was obtained from Kaggle. Special thanks to the authors of the dataset for their contributions.
